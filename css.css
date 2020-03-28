@@ -1,0 +1,21 @@
+img {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+div {
+    width: 140px;
+    height: 140px;
+    background-color: lightblue;
+    margin: 20px;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+h2,
+    {
+    text-align: center;
+}
+
